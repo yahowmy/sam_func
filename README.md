@@ -6,4 +6,3 @@ An AWS SAM template that generate the following,
 
 3 - Dynamodb table with mock greeting data inserted.
 
-https://ic9gp1g30m.execute-api.us-east-1.amazonaws.com/Prod/hello
