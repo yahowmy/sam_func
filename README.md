@@ -4,4 +4,4 @@ An AWS SAM template that generate the following,
 
 2 - API Gateway stage with lambda as a proxy. 
 
-3 - Dynamodb table with mock data inserted.
+3 - Dynamodb table with mock greeting data inserted.
